@@ -248,3 +248,6 @@ This repository serves as the official landing page for Magic: The Gathering. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Magic: The Gathering today!**
+
+---
+**Last updated:** 2026-09-12 21:18:56 UTC
